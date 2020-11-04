@@ -1,4 +1,3 @@
-package org.basic.java;
 
 public class Carro {
 
